@@ -1,0 +1,44 @@
+
+                  ..[ ARBOL BINARIO DE BUSQUEDA ]..
+
+ Numero de nodos del arbol:  13
+
+ Numero del nodo 1: 60
+ Numero del nodo 2: 30
+ Numero del nodo 3: 20
+ Numero del nodo 4: 55
+ Numero del nodo 5: 35
+ Numero del nodo 6: 33
+ Numero del nodo 7: 48
+ Numero del nodo 8: 40
+ Numero del nodo 9: 50
+ Numero del nodo 10: 70
+ Numero del nodo 11: 90
+ Numero del nodo 12: 80
+ Numero del nodo 13: 95
+
+ Mostrando ABB
+
+         95
+      90
+         80
+   70
+60
+      55
+               50
+            48
+               40
+         35
+            33
+   30
+      20
+
+ Recorridos del ABB
+
+ En orden   :  20 30 33 35 40 48 50 55 60 70 80 90 95
+
+ Pre Orden  :  60 30 20 55 35 33 48 40 50 70 90 80 95
+
+ Post Orden :  20 33 40 50 48 35 55 30 80 95 90 70 60
+
+Presione una tecla para continuar . . .
